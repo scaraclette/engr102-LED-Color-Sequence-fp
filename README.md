@@ -1,0 +1,2 @@
+# engr102-LED-Color-Sequence-fp
+This final project was based from the tutorial created by Gerrikoio in hackster.io (url: https://www.hackster.io/gerrikoiot/ble-gp-o-controller-mit-app-inv-feather-m0-bluefruit-le-4fba5e). This project uses Adafruit’s Feather M0 Bluefruit LE board and an Android app created in MIT’s AppInventor. The Feather M0 has Bluetooth functionality and so with a mobile app it is possible to send data (this case byte value) without physical contact to the board. We can then customize how we want the circuit to respond with those data.
